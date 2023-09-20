@@ -4,3 +4,7 @@
 .conatiner-round-text{
     background-color: hsl(256, 72%, 46%, 1);
 }
+.container{
+  background-color: black;
+  display: flex;
+}
